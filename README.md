@@ -1,16 +1,25 @@
-## Hi there 👋
+# UE — Data Engineering learner
 
-<!--
-**fu1m3n/fu1m3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+=
+Сейчас учусь на практике и собираю портфолио под DE/trainee.
+=
 
-Here are some ideas to get you started:
+## Что изучаю сейчас
+- SQL (PostgreSQL): SELECT, фильтрация, агрегации, join, оконные функции
+- Git: команды, ветки, merge, конфликты
+- Linux: навигация, grep, pipes, логи
+- Docker/Compose: поднимаю PostgreSQL и сервисы для практики
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Стек
+- SQL: PostgreSQL
+- Python (скрипты для ETL/автоматизации)
+- Docker / Docker Compose
+- Linux / Bash
+- Далее по роадмапу: Airflow, ClickHouse, Kafka
+
+## Проекты
+- de-playground — учебный полигон: окружение, SQL, ETL-скрипты, заметки по прогрессу
+
+## Контакты
+- LinkedIn: https://www.linkedin.com/in/....
+- Telegram: https://t.me/fu1men
