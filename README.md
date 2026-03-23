@@ -1,6 +1,5 @@
 # UE — Data Engineering learner
 
-=
 Сейчас учусь на практике и собираю портфолио под DE/trainee.
 =
 
